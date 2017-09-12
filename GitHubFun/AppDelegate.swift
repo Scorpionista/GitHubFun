@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Michael Donnelly on 9/11/17.
-//  Copyright © 2017 Michael Donnelly. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
